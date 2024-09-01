@@ -6,7 +6,7 @@ m:root {
 }
 
 body {
-  background-color: black;
+  background-color: rgb(249, 171, 228);
   font-family: Chaucer;
   color: var(--font-color);
 
