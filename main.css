@@ -5,23 +5,23 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #ffc765;
+  background-color: #f6bbd9;
 }
 
 #card {
   width: 0;
   height: 0;
-  border-top: 100px solid #63c2e2;
-  border-right: 170px solid #c1e1ec;
-  border-bottom: 100px solid #63c2e2;
-  border-left: 170px solid #c1e1ec;
-  box-shadow: 10px 10px 5px #f7b23c;
+  border-top: 100px solid #fffffe;
+  border-right: 170px solid #f1439a;
+  border-bottom: 100px solid #ffffff;
+  border-left: 170px solid #f1439a;
+  box-shadow: 10px 10px 5px #ef1d82;
 }
 
 .heart {
   width: 32px;
   height: 32px;
-  background-color: #ff1414;
+  background-color: #ff0000;
   transform: translate(-50%, -50%) rotate(45deg);
   animation: heartbeat 1.4s infinite;
 }
